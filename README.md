@@ -52,10 +52,20 @@ To view and interact with this project on your local machine, follow these steps
 ## 🤝 Contributing
 Contributions are welcome! If you'd like to suggest improvements or report issues, please fork the repository and create a pull request.
 
-## 📩 Contact
+## 📩 Contact 
+
+If you have any questions or suggestions, feel free to contact me:  
 
 👩‍💻 **Agustina Montecchia**
 
-[LinkedIn](https://www.linkedin.com/in/agustinamontecchia/)
+- [montecchia.agus@gmail.com](mailto:montecchia.agus@gmail.com)  
 
-[GitHub Profile](https://github.com/AgustinaMontecchia)
+- [LinkedIn](https://www.linkedin.com/in/agustinamontecchia/)
+
+- [GitHub Profile](https://github.com/AgustinaMontecchia)
+
+## Credits  
+
+- Icons provided by [FontAwesome](https://fontawesome.com/).  
+- Product images courtesy of [Unsplash](https://unsplash.com/).  
+
